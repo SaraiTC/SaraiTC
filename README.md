@@ -26,7 +26,8 @@
 
 ### GitHub stats
 
-[!SaraiTC's GitHub stats](https://github-readme-stats.vercel.app/api?username=SaraiTC)](https://github.com/SaraiTC/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 
 (Gracias a <a target="_blank" href="https://github.com/anuraghazra/github-readme-stats">Anuraghazra</a>)
 
