@@ -10,6 +10,8 @@
 - 💬 Siempre estoy dispuesta a ayudar en lo que pueda... me puedes encontrar en Twitter como @sarai_dev
 - ⚡ Fun fact: Cuando hace mucho frío duermo con un gorrito w.w 
 
+---
+
 ### Lenguajes
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -32,6 +34,17 @@
 
 
 (Gracias a <a target="_blank" href="https://github.com/anuraghazra/github-readme-stats">Anuraghazra</a>)
+
+### Puedes encontrarme:
+
+  
+   [![Linkedin Badge](https://img.shields.io/badge/-Sarai-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anushkaverma/)](https://www.linkedin.com/in/anushkaverma/) 
+   [![Medium Badge](https://img.shields.io/badge/-@v.anushka786-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@v.anushka786)](https://medium.com/@v.anushka786) 
+   [![Gmail Badge](https://img.shields.io/badge/-v.anushka786-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:v.anushka786@gmail.com)](mailto:v.anushka786@gmail.com)
+   [![Instagram Badge](https://img.shields.io/badge/-@v_anushkaa-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/v_anushkaa/)](https://instagram.com/v_anushkaa) 
+   [![Facebook Badge](https://img.shields.io/badge/-verma_anushka-036be4?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100022118525351)](https://www.facebook.com/profile.php?id=100022118525351)
+   [![GeeksforGeeks Badge](https://img.shields.io/badge/-verma_anushka-1c6340?style=flat&logo=GeeksforGeeks&logoColor=white&link=https://auth.geeksforgeeks.org/user/verma_anushka/articles)](https://auth.geeksforgeeks.org/user/verma_anushka/articles)
+
 
 
 
