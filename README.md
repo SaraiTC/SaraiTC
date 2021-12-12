@@ -1,4 +1,4 @@
-<h1 align="center">Hello World! <img width="50px"src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif">, I'm Sarai</h1>
+<h1 align="center">Hello World! <img width="45px"src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif">, I'm Sarai</h1>
 <h3 align="center">A frontend developer Jr from Spain</h3>
 <img align="right" alt="cat-gif" width="330px" src="https://raw.githubusercontent.com/haoruilee/haoruilee/master/pic/pusheencode.gif" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saraitc&label=Profile%20views&color=0e75b6&style=flat" alt="saraitc" /> </p>
