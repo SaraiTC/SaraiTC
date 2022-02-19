@@ -5,7 +5,7 @@
 
 ### About me
 
-- 🔭 I’m currently working at **Vigo Council as Frontend developer Jr**
+- 🔭 I’m currently working at **Vigo Council as Front-end developer Jr**
 
 - 🌱 I’m currently learning **Javascript & PHP**
 
